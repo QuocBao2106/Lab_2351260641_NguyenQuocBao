@@ -1,0 +1,15 @@
+# Moi truong Python
+.venv/
+venv/
+
+# File rac Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Thong tin rieng tu
+.env
+.env.*
+
+# File WAV tao them tu thi nghiem nhieu
+results/noisy_test_wav/

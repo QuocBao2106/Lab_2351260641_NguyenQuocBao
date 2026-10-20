@@ -1,0 +1,3 @@
+﻿feature_type,feature_dimension,accuracy,correct_files,total_test_files
+static,13,0.8,8,10
+dynamic,39,0.9,9,10

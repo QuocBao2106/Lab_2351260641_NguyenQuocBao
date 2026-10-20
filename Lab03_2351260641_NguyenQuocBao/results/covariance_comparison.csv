@@ -1,0 +1,3 @@
+﻿covariance_type,accuracy,correct_files,total_test_files,status
+diag,0.9,9,10,success
+full,0.4,4,10,success

@@ -1,0 +1,11 @@
+﻿file,true_label,clean_prediction,noisy_prediction,snr_db
+mo_07.wav,mo,mo,dong,15
+mo_08.wav,mo,mo,dong,15
+dong_07.wav,dong,dong,dong,15
+dong_08.wav,dong,dong,dong,15
+len_07.wav,len,len,dong,15
+len_08.wav,len,dung,dong,15
+xuong_07.wav,xuong,xuong,xuong,15
+xuong_08.wav,xuong,xuong,dong,15
+dung_07.wav,dung,dung,dong,15
+dung_08.wav,dung,dung,dong,15
